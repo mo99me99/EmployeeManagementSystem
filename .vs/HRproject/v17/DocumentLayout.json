@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\SUTECH\\OS_lab\\HRproject\\HRproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72DFF6B4-F3BE-4275-B92B-3617CB29C071}|HRproject.csproj|g:\\sutech\\os_lab\\hrproject\\hrproject\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72DFF6B4-F3BE-4275-B92B-3617CB29C071}|HRproject.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "G:\\SUTECH\\OS_lab\\HRproject\\HRproject\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "G:\\SUTECH\\OS_lab\\HRproject\\HRproject\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:41:07.482Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
